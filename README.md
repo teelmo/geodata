@@ -1,4 +1,4 @@
-# Geo-data
+# Geodata
 
 Tänne on koottu karttatiedostoja eri formaateissa. 
 
