@@ -1,0 +1,1416 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Euroopan maiden rajat</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>AD</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> AD<br>
+<b>Name:</b> Andorra
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>5</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>104196.211632</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>620772527.896000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Andorra</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>1.451527,42.446245 1.723609,42.509436 1.738609,42.616391 1.445836,42.601945</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>AL</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> AL<br>
+<b>Name:</b> Albania
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>25</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>1158249.080570</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>50922672862.500000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Albania</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>20.22,39.647354 20.413327,39.820136 20.315418,39.9918 20.667082,40.096245 20.791927,40.431545 21.042082,40.564027 20.983491,40.855891 20.740809,40.909536 20.519163,41.246382 20.589645,41.882191 20.525136,42.213054 20.071418,42.560909 19.8225,42.471936 19.651527,42.623191 19.288536,42.182909 19.367773,41.849 19.599163,41.779718 19.4425,41.406945 19.521663,40.909854 19.307209,40.645309 19.479445,40.354854 19.289791,40.421454 19.857291,40.043473 20.010027,39.6912</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>AT</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> AT<br>
+<b>Name:</b> Austria
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>44</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>2577700.235580</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>182717670047.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Austria</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>11.0168,46.773327 11.177154,46.967354 12.186109,47.094582 12.160273,46.928054 12.440554,46.690827 13.718654,46.526609 14.545,46.407491 14.8675,46.613327 16.1118,46.869718 16.504863,47.006764 16.452009,47.412845 16.713891,47.543882 16.450554,47.698054 17.053891,47.709445 17.166382,48.0125 16.844718,48.361973 16.946182,48.619064 16.540554,48.812354 16.103336,48.75 15.028609,49.018745 14.700282,48.581382 13.833609,48.773609 13.726,48.515591 13.443227,48.560236 13.395,48.3661 12.759718,48.121727 13.008891,47.854164 12.913954,47.725 13.100136,47.642918 13.0125,47.469791 12.736945,47.682709 11.104027,47.396527 10.4818,47.586518 10.173336,47.274718 10.231736,47.373745 9.955,47.539718 9.566727,47.540454 9.670345,47.390691 9.533573,47.274545 9.598636,47.063836 10.109445,46.850273 10.390763,47.002564 10.471236,46.871354</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>BA</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> BA<br>
+<b>Name:</b> Bosnia &amp; Herzegovina
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>29</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>1546650.697070</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>100062460344.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Bosnia &amp; Herzegovina</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>18.576382,42.663054 18.481736,42.966173 18.702773,43.257145 18.915573,43.357773 19.059573,43.235945 18.949854,43.506036 19.228809,43.513218 19.510554,43.685827 19.239454,44.010609 19.618563,44.052618 19.104445,44.355827 19.371391,44.889164 19.039718,44.861382 18.634163,45.083327 17.860345,45.049373 16.913927,45.265945 16.531091,45.225527 16.291763,44.999118 16.022427,45.214373 15.785763,45.168954 15.740591,44.812245 16.129863,44.492354 16.145482,44.198673 17.254718,43.464027 17.654445,43.047218 17.578527,42.943827 17.649845,42.889073 18.455554,42.565827</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>BE</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> BE<br>
+<b>Name:</b> Belgium
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>29</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>1434573.189150</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>76491327495.100006</value>
+				</Data>
+				<Data name='Name'>
+					<value>Belgium</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>2.650554,50.816109 3.158573,50.784364 3.297082,50.5243 4.165,50.283054 4.149236,49.978373 4.510554,49.947491 4.824727,50.167564 4.868473,49.802218 5.472782,49.508882 5.807882,49.545045 5.899163,49.662773 5.747773,49.907491 5.973054,50.17 6.134409,50.127845 6.3982,50.323173 6.270418,50.619854 6.0118,50.757273 5.638818,50.848882 5.847136,51.153191 5.238973,51.262282 5.038473,51.486945 4.252363,51.375145 4.3277,51.290127 4.2389,51.350427 3.895418,51.205691 3.439863,51.244782 3.370863,51.373854 2.541663,51.091109</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>BG</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> BG<br>
+<b>Name:</b> Bulgaria
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>33</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>2337147.333810</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>205532468189.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Bulgaria</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>27.036427,44.147336 26.136382,43.982773 25.531936,43.6436 24.189236,43.684927 22.894445,43.836109 23.042982,44.072564 22.681436,44.2247 22.367218,43.826945 22.541663,43.475618 23.005,43.192773 22.741591,42.892145 22.442909,42.820409 22.558473,42.483327 22.365273,42.323882 23.009236,41.766309 22.9356,41.342127 24.258191,41.569582 25.282354,41.243045 26.14,41.354718 26.077636,41.7143 26.3611,41.711054 26.621382,41.973054 27.070273,42.089991 27.569582,41.909264 28.013054,41.982218 27.679163,42.418318 27.449582,42.472982 27.894091,42.703054 27.945,43.167218 28.127218,43.394982 28.541663,43.437773 28.583245,43.747764</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>BY</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> BY<br>
+<b>Name:</b> Belarus
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>54</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>3956278.017620</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>584946549098.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Belarus</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>24.043054,51.610273 24.394227,51.884718 25.240963,51.959854 27.17,51.764164 27.747909,51.466518 27.832082,51.609164 28.256736,51.659291 28.757154,51.415645 29.118054,51.636936 29.342218,51.373182 30.179991,51.491518 30.551418,51.251845 30.565,51.643327 30.959663,52.079345 31.783882,52.108045 31.593818,52.313118 31.579718,52.804573 31.266663,53.023327 31.425754,53.208809 32.223318,53.105554 32.740054,53.458809 32.443527,53.572845 32.456663,53.724573 31.764227,53.804345 31.845554,54.060964 31.328609,54.243254 31.103054,54.645545 30.782709,54.799091 31.027536,55.0485 30.815973,55.301727 30.926245,55.602573 30.245827,55.854436 29.484991,55.692209 29.410063,55.957909 28.746109,55.9561 28.168009,56.150154 27.600245,55.792527 26.985827,55.832354 26.613209,55.674836 26.464854,55.338745 26.8068,55.269718 25.792082,54.873045 25.551663,54.3269 25.7127,54.331518 25.766109,54.153873 25.539927,54.145482 25.466936,54.304364 24.391663,53.890336 23.504036,53.947045 23.935273,52.717491 23.1654,52.282273 23.638609,52.079436 23.604636,51.527691</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>CH</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> CH<br>
+<b>Name:</b> Switzerland
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>38</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>1769406.656980</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>89528558145.699997</value>
+				</Data>
+				<Data name='Name'>
+					<value>Switzerland</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>10.390763,47.002564 10.109445,46.850273 9.598636,47.063836 9.474636,47.057454 9.533573,47.274545 9.670345,47.390691 9.566727,47.540454 8.562918,47.806664 8.406945,47.7018 8.576418,47.591373 7.588273,47.584482 7.385418,47.433327 6.990554,47.497218 6.971663,47.291936 6.128682,46.588054 6.115554,46.261527 5.967009,46.207291 6.133263,46.149782 6.295554,46.394164 6.737782,46.447491 6.783473,46.154718 7.038054,45.931936 7.855745,45.919054 8.441454,46.462082 8.445,46.247218 9.036663,45.837773 9.293782,46.500827 9.544863,46.306245 9.946945,46.379582 10.136391,46.230691 10.051391,46.541527 10.457527,46.5425 10.471236,46.871354</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>CY</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> CY<br>
+<b>Name:</b> Cyprus
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>10</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>661592.118396</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>14813203713.200001</value>
+				</Data>
+				<Data name='Name'>
+					<value>Cyprus</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>32.278609,35.095409 32.405827,34.749854 32.713882,34.640273 33.369018,34.726527 33.681382,34.9668 34.085273,34.961664 33.921391,35.272773 34.586036,35.688609 32.9321,35.263627</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>CZ</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> CZ<br>
+<b>Name:</b> Czech Republic
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>32</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>2171434.281460</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>187839021890.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Czech Republic</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>18.578745,49.912218 17.657773,50.108054 17.724445,50.319027 16.890973,50.438673 17.002218,50.216945 16.64,50.108891 16.219027,50.410273 16.447363,50.578818 16.332009,50.664027 15.379718,50.779445 15.176945,51.014718 14.828336,50.865827 14.306245,51.052491 14.311391,50.882218 12.985554,50.418327 12.515418,50.392491 12.323054,50.206664 12.0937,50.322536 12.545973,49.909582 12.455554,49.695545 12.674445,49.425 13.833609,48.773609 14.700282,48.581382 15.028609,49.018745 16.103336,48.75 16.540554,48.812354 16.946182,48.619064 17.187909,48.869445 17.712218,48.856109 18.5659,49.493673 18.851245,49.517354</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-multi_geometry-4'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-multi_geometry-4-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-multi_geometry-4-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-multi_geometry-4</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-multi_geometry-4-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>DE</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> DE<br>
+<b>Name:</b> Germany
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>126</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>6520178.415430</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>905256089889.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Germany</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>8.664545,54.913091 8.420418,54.919645 8.408054,55.056527 8.280554,54.774991 8.545609,54.870609 9.011245,54.503464 8.600482,54.326382 8.883609,54.294164 8.827363,54.151664 9.017218,54.085 8.883054,53.961109 9.276009,53.881891 9.829063,53.5417 9.2834,53.855545 9.096045,53.866673 8.659027,53.892636 8.4841,53.686318 8.492063,53.555882 8.332218,53.615273 8.286036,53.420891 8.097773,53.444445 8.014309,53.708327 7.295836,53.685273 7.015,53.409854 7.337082,53.323054 7.208363,53.242809 7.053473,52.649582 6.689582,52.550554 7.062982,52.390964 7.053091,52.237764 6.736391,52.076664 6.828954,51.975754 5.963609,51.806664 6.222082,51.467354 6.0975,51.1311 5.865,51.045345 6.080836,50.914718 6.0118,50.757273 6.270418,50.619854 6.3982,50.323173 6.134409,50.127845 6.234163,49.8975 6.524027,49.8077 6.362173,49.459391 6.729236,49.167636 7.425554,49.176454 8.226082,48.964418 7.802218,48.575827 7.578382,48.1172 7.588273,47.584482 8.576418,47.591373 8.406945,47.7018 8.562918,47.806664 9.566727,47.540454 9.955,47.539718 10.231736,47.373745 10.173336,47.274718 10.4818,47.586518 11.104027,47.396527 12.736945,47.682709 13.0125,47.469791 13.100136,47.642918 12.913954,47.725 13.008891,47.854164 12.759718,48.121727 13.395,48.3661 13.443227,48.560236 13.726,48.515591 13.833609,48.773609 12.674445,49.425 12.455554,49.695545 12.545973,49.909582 12.0937,50.322536 12.323054,50.206664 12.515418,50.392491 12.985554,50.418327 14.311391,50.882218 14.306245,51.052491 14.828336,50.865827 15.033818,51.286654 14.600973,51.820064 14.760763,52.069864 14.534445,52.396245 14.639582,52.572982 14.149163,52.862782 14.391691,53.144164 14.275627,53.699064 13.808536,53.854782 13.710827,54.170827 13.454582,54.097082 13.023891,54.399718 12.374373,54.262427 12.463891,54.395136 12.921527,54.427464 12.526945,54.474154 11.412773,53.919718 11.094718,54.013609 10.818536,53.890054 10.762218,54.056527 11.093954,54.205482 10.979445,54.380554 9.866036,54.457291 10.0325,54.555273 9.972009,54.760754 9.445354,54.8254</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>13.729163,54.275136 13.577282,54.456936 13.674509,54.566591 13.244718,54.656664 13.516609,54.513373 13.146963,54.545609 13.263891,54.38 13.118818,54.336727 13.268054,54.255</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>14.225554,53.9286 13.758054,54.147354 14.056,53.984864 13.829191,53.859509 14.218891,53.869018</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>8.673109,47.703 8.692336,47.694091 8.705473,47.711436</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>DK</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> DK<br>
+<b>Name:</b> Denmark
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>151</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>5478794.112250</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>131563886878.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Denmark</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>10.311891,56.9813 10.258636,56.995563 9.974273,57.071727 9.722136,57.022418 9.1782,56.916027 9.318263,56.525409 9.062918,56.565754 9.072782,56.807618 8.680827,56.617845 8.740209,56.490127 8.160691,56.645545 8.108327,56.017773 8.262918,56.078882 8.395691,55.894718 8.191391,55.810691 8.127709,55.983818 8.092918,55.556209 8.618191,55.431109 8.689027,55.140064 8.457636,55.127218 8.676109,55.114164 8.664545,54.913091 9.445354,54.8254 9.766109,54.896382 9.461527,55.122145 9.677154,55.191173 9.589718,55.418191 9.6737,55.500973 9.819163,55.604718 9.554582,55.702982 9.992773,55.704991 10.044445,55.815691 9.869582,55.843745 10.184582,55.828191 10.239363,56.172609 10.448609,56.291936 10.355691,56.197491 10.519718,56.099718 10.745,56.163891 10.961945,56.442218 10.308663,56.578163 10.187773,56.468609 10.343054,56.692636 9.866391,56.650273 10.305273,56.748054</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>12.617291,56.040136 12.290554,56.128882 11.847082,55.955554 12.040973,55.921664 12.052909,55.751109 11.914163,55.929718 11.794436,55.661654 11.670554,55.814164 11.768336,55.963473 11.273336,55.991664 11.516109,55.895136 11.343336,55.7475 10.879718,55.7343 11.086391,55.666382 11.245418,55.202073 11.730836,55.203609 11.730554,55.060554 12.071945,54.968609 12.178745,55.118473 12.025554,55.169436 12.462218,55.289582 12.192363,55.482427 12.597982,55.702564 12.558873,55.867236</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>10.4318,57.585691 10.645954,57.736263 9.957709,57.586245 9.466245,57.178891 9.017218,57.153609 8.618473,57.121527 8.260136,56.827773 8.244163,56.7043 8.5459,56.585173 8.579063,56.687673 8.4158,56.678127 8.6766,56.948118 9.115545,57.052773 10.006663,57.091473 10.336618,56.991663 10.530273,57.222563</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>10.0003,55.541264 9.6882,55.498245 9.679718,55.497082 9.683118,55.494118 10.152773,55.084445 10.783327,55.124091 10.660273,55.587636 10.473745,55.437636 10.318473,55.614436</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>11.656945,54.903882 11.239718,54.957218 10.989891,54.790845 11.454927,54.619854 11.857218,54.686382</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-7.056109,62.098609 -7.072009,62.100509 -7.430346,62.143327 -7.201664,62.018609 -7.0616,62.0956</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-7.210837,62.284718 -7.234237,62.177073 -7.033955,62.112736 -6.717782,61.933327 -6.841118,62.124009</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>11.850591,54.954782 11.710973,54.939164 11.9668,54.561936 12.168191,54.8377</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>10.0,54.983718 9.631454,55.049027 9.931663,54.861382 10.0693,54.873882</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>14.745273,55.294027 14.678745,55.100827 15.0425,54.994718 15.137636,55.141391</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>EE</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> EE<br>
+<b>Name:</b> Estonia
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>47</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>2869904.814540</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>168823949021.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Estonia</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>26.972773,59.444436 25.477427,59.658045 25.399209,59.488227 24.795973,59.564991 23.505273,59.226791 23.410409,59.015682 23.636663,58.974291 23.438327,58.939991 23.483054,58.809991 23.864236,58.773045 23.495545,58.694154 23.728609,58.370827 24.103609,58.235545 24.330827,58.386663 24.554509,58.324718 24.314982,57.871827 25.297845,58.083254 26.511391,57.5261 26.902218,57.633463 27.372054,57.535636 27.548609,57.818609 27.8202,57.867427 27.475754,58.213118 27.428327,58.815891 27.916491,59.273663 28.1643,59.303718 28.015827,59.4786</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>22.372909,58.221382 23.328191,58.446936 22.911245,58.6168 21.837354,58.506663 22.006945,58.356654 21.844509,58.289163 22.194091,58.145236 22.037773,57.908327</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>23.045273,58.836382 22.929718,58.982491 22.575827,59.0686 22.0443,58.942627 22.565273,58.686654</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>23.059027,58.604582 23.376109,58.533054 23.247463,58.671054</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>ES</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> ES<br>
+<b>Name:</b> Spain
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>130</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>6692478.037670</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>868374027310.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Spain</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-5.334509,36.162564 -5.172637,36.411873 -4.639718,36.508327 -4.399864,36.721454 -2.768891,36.678327 -2.347082,36.840545 -2.122918,36.733464 -1.643609,37.372773 -1.3275,37.558054 -0.723473,37.602218 -0.858337,37.715545 -0.511664,38.325 0.207218,38.732209 -0.143337,38.978336 -0.337637,39.438054 0.0475,40.033736 0.589163,40.612782 0.885282,40.702773 0.703609,40.796873 0.964445,41.032773 2.117363,41.2893 3.175282,41.867491 3.118054,42.225127 3.317991,42.320482 3.177654,42.436809 2.020554,42.352636 1.723609,42.509436 1.451527,42.446245 1.445836,42.601945 0.716109,42.858882 0.675509,42.688482 -0.555837,42.78 -0.7541,42.964373 -1.439518,43.049373 -1.385137,43.252564 -1.780873,43.359927 -3.150591,43.353564 -3.585555,43.510273 -4.514555,43.396345 -5.854164,43.648045 -7.044818,43.4904 -7.898055,43.764164 -8.329727,43.403882 -8.950282,43.293609 -9.259164,43.047218 -9.105837,42.752491 -8.915837,42.789027 -9.029373,42.524164 -8.7205,42.698491 -8.906109,42.475136 -8.656109,42.427773 -8.864864,42.249645 -8.579864,42.349018 -8.8975,42.110554 -8.875137,41.879509 -8.745009,41.9525 -8.197837,42.150673 -8.136109,41.809164 -6.602291,41.949164 -6.545627,41.687009 -6.190455,41.579636 -6.924409,41.030964 -6.796109,40.524436 -7.027218,40.187773 -6.870691,40.015973 -7.017218,39.675 -7.532509,39.669418 -6.955873,39.023191 -7.317082,38.444718 -6.941527,38.170418 -7.446946,37.699436 -7.431855,37.253191 -6.959927,37.221836 -6.355555,36.860827 -6.4325,36.692354 -6.044164,36.186109 -5.613609,36.0061 -5.3558,36.163309</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>2.694445,39.551936 3.060282,39.263336 3.48,39.716382 2.987782,39.911109 2.389163,39.524991</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-13.923055,28.249164 -13.867782,28.749582 -14.444173,28.069164 -14.332782,28.044436</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-15.365282,28.007218 -15.7025,28.156109 -15.822637,27.915691 -15.579173,27.731109</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-13.483473,28.995282 -13.4425,29.231664 -13.791664,29.0525 -13.773055,28.837773</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>1.602918,39.093882 1.294163,39.031391 1.211945,38.898327 1.371945,38.830827</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-17.716527,28.743327 -17.906809,28.848191 -18.002918,28.749718 -17.783337,28.529164</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-16.156946,28.572218 -16.909373,28.346036 -16.671391,27.984164</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>4.174445,40.050282 3.796945,40.017218 4.276391,39.806391</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-17.089173,28.111945 -17.255,28.206109 -17.230837,28.01</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>FI</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> FI<br>
+<b>Name:</b> Finland
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>116</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>9298973.202980</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>1812459833270.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Finland</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>24.689163,65.8961 24.553536,65.762 24.669163,65.654709 25.303745,65.515136 25.2675,65.17 25.444236,64.953391 25.1893,64.964018 25.319445,64.817763 24.539582,64.799154 24.3393,64.521663 23.318882,63.896663 22.288191,63.525691 22.187845,63.445136 22.34,63.276527 21.496873,63.203536 21.6766,63.020136 21.435554,63.034718 21.065973,62.597982 21.371663,62.259991 21.284582,61.946382 21.663891,61.540273 21.468891,61.556527 21.554445,61.309436 21.358609,60.653609 22.626591,60.380445 22.4493,60.242354 22.539873,60.218636 22.565473,60.211936 22.598463,60.220409 23.084654,60.3452 22.874445,60.145554 23.254863,60.037082 23.109227,59.925654 23.335691,60.023954 22.900273,59.8068 23.2493,59.837918 23.5375,60.067563 23.431591,59.953818 24.4725,59.990418 25.6575,60.361245 25.921663,60.243745 25.838191,60.398463 26.078745,60.294027 26.055063,60.422773 26.416527,60.391663 26.569009,60.556354 26.563609,60.428054 27.807827,60.5464 31.258191,62.508254 31.581963,62.9079 31.219718,63.223054 29.998954,63.735336 30.595273,64.046936 30.577354,64.223736 30.061527,64.405345 29.976454,64.578945 30.206873,64.663327 30.142773,64.772073 29.640827,64.920963 29.621182,65.052354 29.869445,65.119991 29.602045,65.244436 29.818882,65.653318 30.134927,65.708882 29.903745,66.133882 29.075136,66.9036 30.028609,67.694718 29.356945,68.082491 28.695,68.195409 28.459854,68.534854 28.817354,68.847 28.435554,68.902636 28.957336,69.051618 28.825418,69.236163 29.298473,69.485336 29.1275,69.685818 28.379718,69.8275 27.910691,70.088609 26.4768,69.936382 25.983327,69.7043 25.713336,69.255263 25.761109,68.989163 24.934918,68.580809 23.976391,68.832491 23.196391,68.629854 22.398327,68.711109 21.681945,69.284718 21.320827,69.326109 21.030273,69.210545 21.063473,69.0368 20.580927,69.0603 22.048609,68.481518 22.826663,68.385963 23.659791,67.945891 23.488818,67.870963 23.430827,67.479782 23.765136,67.416873 23.573327,67.157009 24.000763,66.802282 23.6625,66.312209 24.167009,65.814027</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>20.025273,60.310554 20.166945,60.163054 20.2775,60.274163 19.825,60.392218 19.937354,60.2918 19.812918,60.186663 19.648473,60.259582 19.943882,60.042773</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>22.824445,60.227218 22.582809,60.201518 22.446663,60.215827 22.601109,59.983327</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>FR</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> FR<br>
+<b>Name:</b> France
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>129</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>7341447.933660</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>1162799735900.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>France</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-2.170837,47.126664 -1.985873,47.036927 -2.125418,46.830973 -1.786391,46.488327 -1.114637,46.316582 -1.070973,45.903945 -1.238855,45.706218 -0.781527,45.466518 -0.539927,44.895618 -1.089446,45.558609 -1.245837,44.675345 -1.040627,44.674927 -1.208609,44.625827 -1.443891,43.640545 -1.780873,43.359927 -1.385137,43.252564 -1.439518,43.049373 -0.7541,42.964373 -0.555837,42.78 0.675509,42.688482 0.716109,42.858882 1.445836,42.601945 1.738609,42.616391 1.723609,42.509436 2.020554,42.352636 3.177654,42.436809 2.961318,42.842218 3.081391,43.069445 3.964718,43.540836 4.652782,43.359718 4.7075,43.572082 4.815054,43.399218 5.024163,43.552636 5.231527,43.465827 5.039582,43.347909 6.165282,43.050554 6.641663,43.185 6.636391,43.3111 7.391609,43.727545 7.4028,43.758818 7.439291,43.757527 7.531936,43.782045 7.662218,44.170827 6.976391,44.284164 6.852782,44.540836 7.031663,44.831382 6.623963,45.115727 7.127782,45.2593 7.146945,45.430545 6.799345,45.788664 7.038054,45.931936 6.783473,46.154718 6.737782,46.447491 6.295554,46.394164 6.133263,46.149782 5.967009,46.207291 6.115554,46.261527 6.128682,46.588054 6.971663,47.291936 6.990554,47.497218 7.385418,47.433327 7.588273,47.584482 7.578382,48.1172 7.802218,48.575827 8.226082,48.964418 7.425554,49.176454 6.729236,49.167636 6.362173,49.459391 5.807882,49.545045 5.472782,49.508882 4.868473,49.802218 4.824727,50.167564 4.510554,49.947491 4.149236,49.978373 4.165,50.283054 3.297082,50.5243 3.158573,50.784364 2.650554,50.816109 2.541663,51.091109 1.625,50.877773 1.461109,50.124164 0.185973,49.704027 0.075836,49.522564 0.424718,49.451664 -0.228337,49.283609 -1.109582,49.369436 -1.264164,49.684164 -1.942082,49.721591 -1.609718,49.215 -1.562573,48.748954 -1.368891,48.643609 -1.988055,48.686945 -1.976109,48.513045 -2.307218,48.676109 -2.685282,48.501664 -3.226109,48.869582 -3.536664,48.825827 -3.582427,48.677773 -4.354164,48.674164 -4.776664,48.511109 -4.760627,48.334991 -4.565355,48.322754 -4.5466,48.174436 -4.282918,48.116527 -4.722237,48.039173 -4.367364,47.808745 -3.982218,47.889718 -3.216946,47.650554 -3.132637,47.476664 -3.125073,47.595409 -2.700282,47.637082 -2.831873,47.497282 -2.367082,47.501527 -2.539655,47.298054 -2.140073,47.253673</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>8.627218,41.906664 8.802363,41.900418 8.725827,41.729436 8.917118,41.685691 8.790418,41.557845 9.219654,41.367291 9.552573,42.118327 9.459582,42.988045 9.3468,43.000409 9.288891,42.675 8.665282,42.511109 8.659445,42.008327</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>GB</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> GB<br>
+<b>Name:</b> United Kingdom
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>257</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>13488158.449900</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>698783365013.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>United Kingdom</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-4.578337,58.574436 -4.761455,58.446036 -4.701664,58.558609 -5.001527,58.624163 -5.174718,58.35 -5.071664,58.264718 -5.389446,58.260273 -5.281455,58.077218 -5.452846,58.074163 -5.102782,57.850827 -5.817082,57.819436 -5.810837,57.639582 -5.510137,57.533191 -5.839718,57.572773 -5.818055,57.3625 -5.451255,57.418045 -5.598846,57.330482 -5.405137,57.230973 -5.647509,57.161609 -5.403055,57.110618 -5.724718,57.113054 -5.524027,56.997354 -5.919582,56.887082 -5.662918,56.869227 -6.227782,56.697218 -5.5524,56.688854 -6.009718,56.633473 -5.676946,56.493891 -5.120837,56.814718 -5.398664,56.478663 -5.070137,56.560691 -5.571391,56.328327 -5.788891,55.308745 -5.523055,55.352218 -5.429164,56.006936 -5.032218,56.2325 -5.305282,55.852218 -4.986664,55.864927 -4.828609,56.113164 -4.854609,55.986482 -4.485418,55.923609 -4.878264,55.936527 -4.916391,55.700827 -4.613609,55.490691 -5.178337,54.988882 -4.864164,54.627218 -4.960764,54.796873 -4.852218,54.868609 -4.387218,54.675554 -4.398055,54.906391 -3.965,54.765273 -3.571109,54.990827 -3.027082,54.972909 -3.381109,54.884436 -3.632637,54.512218 -3.214718,54.095554 -2.813609,54.222773 -3.052637,53.907636 -2.899791,53.724991 -3.105627,53.559927 -2.953891,53.360273 -2.704927,53.350618 -4.196391,53.206109 -4.758491,52.787264 -4.133609,52.914445 -4.130837,52.334718 -5.239164,51.916382 -5.102573,51.778954 -5.246946,51.730273 -4.884446,51.746664 -5.051391,51.620282 -4.941391,51.594164 -4.574446,51.734164 -4.074718,51.677218 -4.242782,51.540836 -3.837918,51.619991 -3.346109,51.378609 -2.38,51.761736 -3.028337,51.206109 -4.228055,51.187773 -4.771664,50.601945 -5.716809,50.060827 -5.470555,50.124991 -5.193055,49.955273 -5.048055,50.171109 -4.38,50.363882 -3.716664,50.206664 -3.437218,50.605 -2.9275,50.731245 -2.424718,50.56 -1.094446,50.845836 0.253891,50.738609 1.2625,51.101664 1.407636,51.183891 1.385554,51.387773 0.388936,51.448218 0.9525,51.609227 0.935691,51.736527 0.701109,51.718473 1.266109,51.839164 1.163473,52.023609 1.331245,51.928745 1.587363,52.083882 1.749445,52.455827 1.675282,52.748054 0.884718,52.966382 0.547782,52.966182 0.378891,52.781391 0.002109,52.879854 0.339163,53.092354 0.235554,53.399436 -0.139627,53.618554 0.142082,53.580554 -0.212218,54.008327 -0.079309,54.1134 -1.2975,54.763609 -1.635973,55.581936 -2.631109,56.054718 -3.053055,55.9436 -3.723755,56.027354 -2.583473,56.268536 -2.884446,56.451382 -3.278055,56.3575 -2.531255,56.576109 -1.773337,57.458054 -2.075555,57.699436 -4.431527,57.572773 -3.774027,57.854854 -4.0073,57.872427 -3.3375,58.276936 -3.109718,58.381663 -3.022637,58.646527</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-6.063755,55.191527 -7.252509,55.070591 -7.553337,54.762773 -7.926391,54.700545 -7.752227,54.594445 -8.158055,54.440273 -7.559446,54.126936 -7.283891,54.123464 -7.029446,54.417218 -6.62,54.037218 -6.266973,54.099827 -6.043891,54.031391 -5.562218,54.283054 -5.698127,54.572627 -5.517718,54.369109 -5.435837,54.458464 -5.574309,54.677218 -5.902427,54.602291 -5.690418,54.809164</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-6.327027,58.2354 -6.165973,58.422918 -6.263337,58.512636 -6.797782,58.302218 -6.860973,58.105973 -7.036255,58.235691 -7.021946,57.951945 -6.832218,57.902218 -7.124237,57.835618 -6.964927,57.726318 -6.661391,57.882636 -6.686809,58.056245 -6.664309,57.925554 -6.473337,57.942218 -6.393337,58.101663 -6.619718,58.080136 -6.168337,58.209582</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-6.43,57.505 -6.6375,57.605554 -6.724446,57.403609 -6.312082,57.299782 -6.480137,57.3025 -6.316391,57.158463 -6.030555,57.1775 -6.014309,57.023463 -5.647637,57.258327 -6.127227,57.306109 -6.304164,57.6861</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-1.286664,60.471109 -1.296527,60.6334 -1.610346,60.4784 -1.320282,60.356382 -1.692155,60.285063 -1.451109,60.1518 -1.291391,60.241391 -1.377918,59.904309 -1.268609,59.851109 -1.180555,60.225 -1.038546,60.442773</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-6.116664,56.650273 -6.337782,56.546663 -6.0034,56.492563 -6.201664,56.382354 -6.019373,56.375964 -6.323055,56.265409 -5.660837,56.3993</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-6.495282,55.733609 -6.262218,55.777218 -6.274446,55.572773 -6.026109,55.6793 -6.1257,55.931245</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-2.234309,49.258927 -2.2064,49.181282 -2.021582,49.177227 -2.037355,49.243964</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-7.423609,57.383745 -7.384027,57.111663 -7.230282,57.094718 -7.223755,57.339573</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-7.192918,57.687082 -7.540837,57.590136 -7.233609,57.503609 -7.068609,57.636591</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>GI</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> GI<br>
+<b>Name:</b> Gibraltar
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>4</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>16737.986506</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>8376515.126820</value>
+				</Data>
+				<Data name='Name'>
+					<value>Gibraltar</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-5.342782,36.111573 -5.334509,36.162564 -5.3558,36.163309</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>GR</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> GR<br>
+<b>Name:</b> Greece
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>182</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>7865922.458580</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>209291303784.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Greece</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>23.3175,38.644027 22.523854,38.866073 23.072773,39.036945 22.823609,39.212218 22.940827,39.359364 23.221527,39.182291 23.054863,39.097909 23.343682,39.1818 22.595,40.012218 22.585209,40.465 22.944927,40.626518 22.899436,40.396664 23.294582,40.235827 23.379445,39.992773 23.718473,39.913891 23.368054,40.143882 23.401036,40.279854 23.932218,39.943054 23.990973,40.1125 23.729718,40.351245 24.394091,40.148018 23.882982,40.400273 23.722009,40.744645 25.1418,41.010336 26.044718,40.735827 26.360409,40.953882 26.325,41.234709 26.635763,41.364718 26.570273,41.611382 26.3611,41.711054 26.077636,41.7143 26.14,41.354718 25.282354,41.243045 24.258191,41.569582 22.9356,41.342127 22.737745,41.156109 21.977082,41.1318 21.6,40.872773 20.983491,40.855891 21.042082,40.564027 20.791927,40.431545 20.667082,40.096245 20.315418,39.9918 20.413327,39.820136 20.22,39.647354 20.010027,39.6912 20.733327,38.9534 20.820827,39.113609 21.083045,39.056664 21.085136,38.864027 20.781109,38.931664 20.732773,38.804436 20.987909,38.671109 21.164163,38.300064 21.358054,38.432918 21.54,38.315964 21.947073,38.4085 22.3743,38.334573 22.408609,38.446036 23.224645,38.1534 22.862773,37.939582 21.8933,38.323845 21.853609,38.339582 21.833591,38.322518 21.641663,38.158882 21.384445,38.211391 21.110973,37.885691 21.649718,37.441936 21.565345,37.155064 21.703609,36.816664 21.875136,36.723536 21.929718,36.974018 22.120827,37.026664 22.488891,36.386109 22.6325,36.803609 23.201454,36.4402 22.725554,37.5634 23.128891,37.448054 23.179718,37.290409 23.517082,37.432709 22.9918,37.882354 23.511663,38.0393 24.033954,37.652845 24.074027,38.195 23.648809,38.355682</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>24.3925,35.188882 25.016945,34.930827 26.135827,34.997291 26.301109,35.283054 25.784027,35.113891 25.765727,35.329964 24.327082,35.351382 24.107063,35.492218 24.176391,35.588882 23.848536,35.522982 23.741873,35.686318 23.520554,35.295 23.681945,35.224445</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>23.642218,38.418882 23.712145,38.409782 24.05,38.365827 24.387218,37.993609 24.575836,38.004164 24.561245,38.1443 24.258263,38.217282 24.153891,38.646664 23.591945,38.764718 23.304445,39.037282 22.832845,38.829127 23.198054,38.8318 23.5458,38.508518</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>26.178327,39.374982 25.834854,39.180064 26.065409,39.084573 26.257082,39.203464 26.088473,39.074373 26.5218,38.973318 26.618609,39.024018 26.419991,39.325827</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>26.159582,38.542073 25.865827,38.585 25.991663,38.343882 25.863327,38.239845 26.014718,38.149436</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>25.047636,39.986654 25.054436,39.860545 25.263054,39.912345 25.355827,39.786382 25.441663,40.004718</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>27.804445,36.269436 27.731245,35.913054 28.063609,36.111927 28.207218,36.442491</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>27.066936,37.727218 26.667636,37.791236 26.581109,37.687209 26.818054,37.636654</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>24.773327,40.631664 24.643191,40.797218 24.509445,40.658054 24.643609,40.570827</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>20.342563,38.177909 20.793473,38.063254 20.571109,38.468045</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>HR</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> HR<br>
+<b>Name:</b> Croatia
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>63</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>3456260.239510</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>107729362612.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Croatia</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>17.654445,43.047218 17.254718,43.464027 16.145482,44.198673 16.129863,44.492354 15.740591,44.812245 15.785763,45.168954 16.022427,45.214373 16.291763,44.999118 16.531091,45.225527 16.913927,45.265945 17.860345,45.049373 18.634163,45.083327 19.039718,44.861382 19.167354,45.2143 19.425,45.217918 18.981263,45.382218 19.097927,45.518864 18.902236,45.573136 18.956663,45.7825 18.817018,45.912964 18.4075,45.748327 17.660973,45.838745 16.607873,46.476236 16.292509,46.530818 15.659163,46.2209 15.696109,45.843054 15.315836,45.756664 15.174454,45.425818 14.826091,45.465445 14.609791,45.668436 14.3925,45.486109 13.591736,45.4817 13.603054,45.157773 13.904445,44.772564 14.323054,45.350964 14.482773,45.3111 14.831527,45.115418 14.990554,44.579436 15.522291,44.263254 15.151663,44.196391 15.940836,43.683609 15.988336,43.504436 16.881663,43.403609 17.578527,42.943827</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>18.455554,42.565827 17.649845,42.889073 17.012363,43.006245 18.5032,42.449436</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>16.887218,43.297773 16.776109,43.359445 16.405554,43.326036 16.687218,43.261664</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>14.539163,45.239436 14.436391,45.07 14.733609,44.939991</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>17.183609,42.918609 16.686109,42.990827 16.866109,42.897773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>HU</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> HU<br>
+<b>Name:</b> Hungary
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>29</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>2097294.794550</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>199836818968.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Hungary</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>21.177363,46.297364 22.013882,47.510618 22.8948,47.954536 22.151445,48.411918 21.780973,48.340691 21.438191,48.575345 20.652918,48.561664 19.939863,48.136245 19.630554,48.233891 19.472427,48.089436 18.845336,48.049127 18.849718,47.817773 18.663054,47.759718 17.787282,47.746427 17.166382,48.0125 17.053891,47.709445 16.450554,47.698054 16.713891,47.543882 16.452009,47.412845 16.504863,47.006764 16.1118,46.869718 16.349027,46.842354 16.607873,46.476236 17.660973,45.838745 18.4075,45.748327 18.817018,45.912964 19.565273,46.172773 20.261027,46.114854</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>IE</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> IE<br>
+<b>Name:</b> Ireland
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>71</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>3823241.261530</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>188662207534.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Ireland</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-6.62,54.037218 -7.029446,54.417218 -7.283891,54.123464 -7.559446,54.126936 -8.158055,54.440273 -7.752227,54.594445 -7.926391,54.700545 -7.553337,54.762773 -7.252509,55.070591 -6.935137,55.238464 -7.376664,55.379991 -7.5475,55.216945 -7.446527,55.055691 -7.682291,54.9509 -7.616664,55.053891 -7.6325,55.265554 -7.791727,55.212018 -7.699718,55.095136 -7.981455,55.216454 -8.457218,54.9968 -8.353891,54.839436 -8.798337,54.695754 -8.188337,54.633609 -8.661664,54.355273 -8.474864,54.273464 -10.112218,54.23 -10.124027,54.096591 -10.0134,54.218191 -9.789582,53.945409 -9.9407,53.867909 -9.561391,53.859718 -9.906391,53.758609 -9.698955,53.597909 -10.186109,53.550282 -10.176527,53.409718 -9.559164,53.381245 -9.608055,53.232218 -8.941109,53.264164 -8.937918,53.141727 -9.280837,53.139718 -9.485837,52.800554 -9.932364,52.5552 -8.818337,52.665545 -9.653609,52.560827 -9.839727,52.379718 -9.744864,52.247218 -10.463337,52.180209 -9.760418,52.149582 -10.263609,51.988054 -10.338591,51.782918 -9.580973,51.872354 -10.13,51.612218 -9.451664,51.724718 -9.8175,51.445545 -8.696664,51.573054 -8.3107,51.7418 -8.421937,51.881545 -8.086673,51.810827 -7.578891,52.100273 -7.001809,52.138473 -6.9973,52.278273 -6.359446,52.179027 -6.498191,52.354027 -6.147782,52.738327 -6.013055,52.945 -6.224582,53.352773 -6.081109,53.563609 -6.380137,53.913327 -6.106255,53.993364 -6.266973,54.099827</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>IS</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> IS<br>
+<b>Name:</b> Iceland
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>106</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>7580190.796410</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>560680585430.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Iceland</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-14.710837,66.367218 -15.374309,66.145273 -16.025418,66.5361 -16.527782,66.508045 -16.417364,66.276027 -16.687091,66.160963 -16.594718,66.091109 -17.131109,66.210536 -17.609173,65.987491 -18.295146,66.175273 -18.069446,65.643327 -18.787782,66.191936 -19.454446,66.054718 -19.456109,65.725691 -20.174173,66.129436 -20.422637,66.084445 -20.263055,65.7236 -20.450209,65.493045 -20.664173,65.690827 -20.927227,65.588882 -21.092227,65.453745 -21.084446,65.159163 -21.308891,65.596936 -21.775,65.764709 -21.437782,65.688045 -21.285137,65.920618 -21.589727,65.942218 -21.399446,66.027218 -21.651391,66.018873 -22.421673,66.433318 -23.190173,66.3559 -22.434173,66.267773 -22.972227,66.221373 -22.5,66.076963 -22.435555,65.838882 -22.499727,65.966109 -22.649582,65.826527 -22.677782,66.045 -23.468755,66.199718 -23.666109,66.112909 -23.374446,65.986518 -23.818337,66.014427 -23.216182,65.840136 -23.873337,65.868736 -23.531673,65.750827 -23.192218,65.775836 -23.527227,65.627773 -24.105209,65.805691 -23.8059,65.609027 -24.069582,65.630682 -23.807437,65.530963 -24.321946,65.6368 -24.5384,65.500273 -23.879446,65.4025 -22.122364,65.593882 -22.287782,65.441373 -21.698609,65.449154 -22.560137,65.168391 -21.759164,65.2036 -21.835837,65.030273 -24.059537,64.890882 -23.835973,64.725963 -22.407218,64.812482 -22.166527,64.453745 -21.513055,64.644091 -21.978891,64.500827 -22.099237,64.312345 -21.362782,64.384991 -21.759164,64.340273 -21.875973,64.2329 -21.702082,64.182773 -22.045555,64.046663 -22.700418,64.081936 -22.686255,63.804573 -21.169727,63.954163 -20.361946,63.761663 -20.541173,63.707109 -20.196946,63.5425 -18.775,63.391391 -17.930837,63.529582 -17.872082,63.730691 -16.488609,63.895827 -15.386809,64.370136 -14.925,64.264163 -14.541255,64.404709 -14.462491,64.542354 -14.584718,64.584991 -14.365946,64.6741 -14.512227,64.796518 -14.018055,64.7236 -13.769718,64.8663 -14.051255,64.932209 -13.700418,64.9204 -13.988055,65.063891 -13.499446,65.069154 -14.030282,65.193463 -13.570137,65.261309 -13.735691,65.317354 -13.609582,65.5061 -14.288055,65.656245 -14.558337,65.499227 -14.338473,65.784573 -14.848337,65.731382 -14.618891,65.994427 -15.070837,66.1436</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>IT</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> IT<br>
+<b>Name:</b> Italy
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>128</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>7822071.215310</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>562410413225.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Italy</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>7.772782,43.815273 8.747218,44.428054 10.1118,44.003745 10.588891,42.9575 11.158054,42.554991 11.097427,42.396527 11.627709,42.298264 13.029582,41.260136 13.712218,41.251109 14.073891,40.821936 14.452773,40.747918 14.401945,40.6 14.830763,40.631518 14.941945,40.234164 15.354863,40.0009 15.663745,40.033054 16.221109,38.868609 15.829027,38.627982 15.906109,38.472773 15.629582,38.2293 15.635136,38.004582 16.057291,37.924236 16.569163,38.428336 16.595,38.800827 17.169163,38.963336 17.145554,39.396382 16.490554,39.749164 16.9193,40.450545 17.317009,40.488291 17.203818,40.412491 17.392773,40.330554 17.857218,40.284436 18.040763,39.937709 18.349445,39.791936 18.5125,40.134718 18.012636,40.643054 15.985,41.439718 15.897636,41.613327 16.192773,41.789991 16.145554,41.911173 15.162363,41.924445 14.736527,42.087909 14.016663,42.67 13.599445,43.57 12.368327,44.246664 12.247636,44.723882 12.538054,44.960618 12.161109,45.263882 12.287082,45.473327 13.087782,45.636527 13.193336,45.778054 13.63,45.77 13.716945,45.596109 13.918336,45.636391 13.479718,46.012218 13.666036,46.175309 13.383473,46.295136 13.718654,46.526609 12.440554,46.690827 12.160273,46.928054 12.186109,47.094582 11.177154,46.967354 11.0168,46.773327 10.471236,46.871354 10.457527,46.5425 10.051391,46.541527 10.136391,46.230691 9.946945,46.379582 9.544863,46.306245 9.293782,46.500827 9.036663,45.837773 8.445,46.247218 8.441454,46.462082 7.855745,45.919054 7.038054,45.931936 6.799345,45.788664 7.146945,45.430545 7.127782,45.2593 6.623963,45.115727 7.031663,44.831382 6.852782,44.540836 6.976391,44.284164 7.662218,44.170827 7.531936,43.782045</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>8.457218,40.321391 8.395973,39.901318 8.557218,39.844991 8.371527,39.372918 8.408327,38.958536 8.505382,39.061027 8.646391,38.890273 8.902082,38.902636 9.013536,39.263191 9.565073,39.145618 9.713609,40.040545 9.623336,40.251873 9.824163,40.527218 9.510454,40.920373 9.633891,40.989164 9.5625,41.117773 9.233054,41.254718 8.579718,40.84 8.228054,40.9384 8.178336,40.636382</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>15.647936,38.264573 15.545827,38.296936 13.791109,37.972218 13.318609,38.217491 12.923609,38.024864 12.733609,38.139718 12.4308,37.803254 12.656109,37.559782 13.155973,37.491245 15.081391,36.649164 15.316663,37.008891 15.092709,37.348327 15.219718,37.764445</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>LI</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> LI<br>
+<b>Name:</b> Liechtenstein
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>4</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>85243.371735</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>241907000.136000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Liechtenstein</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>9.533573,47.274545 9.474636,47.057454 9.598636,47.063836</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>LT</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> LT<br>
+<b>Name:</b> Lithuania
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>30</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>2191321.897200</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>199599892983.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Lithuania</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>24.391663,53.890336 25.466936,54.304364 25.539927,54.145482 25.766109,54.153873 25.7127,54.331518 25.551663,54.3269 25.792082,54.873045 26.8068,55.269718 26.464854,55.338745 26.613209,55.674836 25.582773,56.151382 25.101527,56.199154 24.894163,56.449854 24.1693,56.262218 22.067218,56.419436 21.051682,56.077309 21.263936,55.248982 22.602909,55.044854 22.865,54.8386 22.720136,54.693182 22.785882,54.363836 23.356109,54.235409 23.504036,53.947045</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>21.126109,55.491636 21.092009,55.714018 21.066536,55.499082 20.942836,55.2872 20.984809,55.276545</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>LU</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> LU<br>
+<b>Name:</b> Luxembourg
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>9</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>342578.128730</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>6196526032.530000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Luxembourg</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>6.524027,49.8077 6.234163,49.8975 6.134409,50.127845 5.973054,50.17 5.747773,49.907491 5.899163,49.662773 5.807882,49.545045 6.362173,49.459391</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>LV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> LV<br>
+<b>Name:</b> Latvia
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>30</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>2539516.498030</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>217130440534.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Latvia</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>22.067218,56.419436 24.1693,56.262218 24.894163,56.449854 25.101527,56.199154 25.582773,56.151382 26.613209,55.674836 26.985827,55.832354 27.600245,55.792527 28.168009,56.150154 28.235963,56.276382 27.938818,56.822427 27.701663,56.914709 27.855345,57.305963 27.372054,57.535636 26.902218,57.633463 26.511391,57.5261 25.297845,58.083254 24.314982,57.871827 24.404163,57.251245 23.785827,56.970263 23.256109,57.100963 23.135691,57.364436 22.643327,57.585273 22.6069,57.749054 21.729018,57.574718 21.417282,57.281936 21.395691,57.026654 21.062291,56.841936 21.051682,56.077309</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>MC</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> MC<br>
+<b>Name:</b> Monaco
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>4</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>16080.967999</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>9911188.277720</value>
+				</Data>
+				<Data name='Name'>
+					<value>Monaco</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>7.4028,43.758818 7.391609,43.727545 7.439291,43.757527</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>MD</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> MD<br>
+<b>Name:</b> Moldova
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>20</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>1494525.659700</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>72849951590.500000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Moldova</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>27.000554,48.155545 27.299436,47.6586 28.079373,46.982273 28.2468,46.6078 28.069163,45.583318 28.214836,45.448645 28.515827,45.514918 28.524436,45.7111 28.968254,46.0061 28.994436,46.478327 30.128709,46.405091 29.899436,46.5352 29.9443,46.818254 29.574236,46.947418 29.567009,47.3377 29.1901,47.439536 29.144854,47.983518 27.763191,48.449582 26.634991,48.257164</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>ME</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> ME<br>
+<b>Name:</b> Montenegro
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>24</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>847119.732902</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>25666256128.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Montenegro</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>18.949854,43.506036 19.059573,43.235945 18.915573,43.357773 18.702773,43.257145 18.481736,42.966173 18.576382,42.663054 18.455554,42.565827 18.5032,42.449436 18.678609,42.460554 18.577218,42.387218 19.367773,41.849 19.288536,42.182909 19.651527,42.623191 19.8225,42.471936 20.071418,42.560909 20.072861,42.559803 20.010253,42.744963 20.376275,42.850546 20.006733,43.066992 19.624874,43.20601 19.27469,43.418936 19.232563,43.515518 19.228809,43.513218</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>MK</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> MK<br>
+<b>Name:</b> Macedonia
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>12</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>813796.100849</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>45298348745.900002</value>
+				</Data>
+				<Data name='Name'>
+					<value>Macedonia</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>21.6,40.872773 21.977082,41.1318 22.737745,41.156109 22.9356,41.342127 23.009236,41.766309 22.365273,42.323882 21.110836,42.200691 20.589645,41.882191 20.519163,41.246382 20.740809,40.909536 20.983491,40.855891</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>MT</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> MT<br>
+<b>Name:</b> Malta
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>5</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>77764.467979</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>323047596.915000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Malta</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>14.337163,35.882827 14.520091,35.8011 14.569709,35.869209 14.3649,35.991809</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>NL</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> NL<br>
+<b>Name:</b> Netherlands
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>56</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>2761395.550710</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>91919939224.699997</value>
+				</Data>
+				<Data name='Name'>
+					<value>Netherlands</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.741945,53.465827 5.981663,53.398891 5.094445,52.959164 4.738818,52.956664 4.582009,52.477082 5.078054,52.416109 5.029718,52.624091 5.049591,52.641573 5.303191,52.704854 5.100273,52.948054 5.369863,53.070409 5.3708,52.8802 5.718354,52.838018 5.600554,52.658191 5.853573,52.605945 5.878054,52.509436 5.4225,52.249018 4.574373,52.454473 3.867982,51.812145 4.209436,51.674091 3.997845,51.590136 4.283609,51.448054 3.835,51.606664 3.444236,51.529373 4.252363,51.375145 5.038473,51.486945 5.238973,51.262282 5.847136,51.153191 5.638818,50.848882 6.0118,50.757273 6.080836,50.914718 5.865,51.045345 6.0975,51.1311 6.222082,51.467354 5.963609,51.806664 6.828954,51.975754 6.736391,52.076664 7.053091,52.237764 7.062982,52.390964 6.689582,52.550554 7.053473,52.649582 7.208363,53.242809</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>5.850427,52.524245 5.8607,52.530909 5.8035,52.5494 5.643609,52.601109 5.136663,52.381527 5.422218,52.264164 5.611945,52.369718</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>3.370863,51.373854 3.439863,51.244782 3.895418,51.205691 4.2389,51.350427</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>NO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> NO<br>
+<b>Name:</b> Norway
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>599</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>34662549.766000</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>1683871351990.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Norway</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>7.036391,62.9675 6.954582,62.724027 8.137982,62.693645 7.522782,62.666663 7.474445,62.566109 7.772636,62.574854 7.539163,62.499163 7.09,62.647773 6.252982,62.577773 6.646836,62.495754 6.383891,62.419436 6.786527,62.477218 7.3625,62.276109 7.027782,62.266527 7.017782,62.085 6.877982,62.412563 6.703336,62.444854 6.395136,62.377218 6.533263,62.110409 6.320418,62.367636 5.949163,62.254027 6.360418,62.0609 5.455554,62.184163 5.468891,62.0068 5.080136,62.176663 5.3991,62.018818 5.154582,61.8925 5.361691,61.889354 4.982918,61.739991 4.971945,61.632145 5.338673,61.592482 5.188336,61.498882 5.796245,61.447982 4.968054,61.420827 5.627082,61.361309 4.9525,61.256109 5.243054,61.182354 5.115836,61.141663 6.343818,61.115027 6.428473,61.113191 6.435518,61.120182 6.712636,61.394791 6.579027,61.211663 6.961245,61.109854 7.353891,61.189991 7.279445,61.325554 7.562463,61.470336 7.304163,61.291245 7.428609,61.181391 6.998054,61.087836 7.113891,60.860273 6.818191,61.141663 6.3793,61.060918 5.012291,61.040273 5.070136,60.829718 5.532082,60.871109 5.2375,60.770618 5.428054,60.627218 4.931109,60.800545 5.267818,60.547018 5.456791,60.605163 5.660291,60.711063 5.72,60.674436 5.705973,60.457727 5.637218,60.416945 5.512854,60.4162 5.285554,60.521663 5.144927,60.361036 5.411109,60.129718 5.728091,60.383745 5.548745,60.149091 5.641682,60.145354 5.747218,59.986663 6.221318,60.407354 7.102009,60.496109 6.741663,60.436945 6.521945,60.083463 6.634927,60.406109 6.204718,60.295554 5.698336,59.832773 6.303645,59.844473 5.568473,59.675618 5.459736,59.519218 5.481182,59.727909 5.178891,59.5068 5.516527,59.275554 5.8525,59.344163 5.667654,59.409063 5.807782,59.469163 6.145554,59.4793 5.883473,59.436382 5.940173,59.353227 6.468891,59.555273 5.996527,59.332909 6.459791,59.320482 5.869863,59.065554 6.036391,58.904509 6.130409,58.928627 6.168609,58.832218 5.558609,59.030273 5.460391,58.750054 6.011945,58.379718 6.76,58.244027 6.558891,58.0975 7.007918,57.987918 8.213573,58.120345 9.693054,58.983054 9.5516,59.114018 9.8775,58.954991 10.231109,59.038609 10.515691,59.306245 10.2309,59.729091 10.558054,59.543054 10.5325,59.875973 10.741182,59.890345 10.559582,59.724791 10.7975,59.186382 11.357445,59.107654 11.429191,58.987636 11.624027,58.906936 11.7518,59.095136 11.667009,59.593573 11.8991,59.699718 11.815963,59.8461 12.494509,60.113045 12.590973,60.5218 12.216218,60.998745 12.637827,61.057536 12.856109,61.3625 12.124445,61.728609 12.293745,62.267082 12.0475,62.59 12.028891,62.892491 12.168609,63.015827 11.936391,63.272218 12.146663,63.589573 12.938054,64.053327 13.985,64.015545 14.150691,64.179845 14.116391,64.470554 13.668263,64.5802 14.493054,65.3136 14.633191,65.8218 14.507082,66.1236 15.468054,66.283873 15.362782,66.48 16.353882,67.017773 16.361382,67.237782 16.088054,67.4054 16.726945,67.899154 17.273609,68.090545 17.884163,67.945545 18.155282,68.166109 18.099536,68.508927 19.952363,68.342763 20.204236,68.470891 19.956391,68.543882 20.350273,68.786654 20.096945,69.042218 20.580927,69.0603 21.063473,69.0368 21.030273,69.210545 21.320827,69.326109 21.681945,69.284718 22.398327,68.711109 23.196391,68.629854 23.976391,68.832491 24.934918,68.580809 25.761109,68.989163 25.713336,69.255263 25.983327,69.7043 26.4768,69.936382 27.910691,70.088609 28.379718,69.8275 29.1275,69.685818 29.298473,69.485336 28.825418,69.236163 28.957336,69.051618 29.234863,69.104718 29.313882,69.316182 30.097773,69.503327 30.109582,69.663845 30.912363,69.5502 30.854836,69.792309 30.453327,69.809718 30.350691,69.667491 30.401663,69.825 30.1725,69.875409 30.184027,69.690745 29.491945,69.6602 29.734863,69.907491 29.3716,69.857145 29.666245,69.964163 28.616473,70.110163 30.094445,70.0686 31.073536,70.285545 30.597773,70.535191 30.008054,70.536445 30.341736,70.599709 30.108609,70.707354 29.346945,70.664154 29.036109,70.874163 28.543609,70.739163 28.038891,70.061936 28.330273,70.502145 27.8543,70.481936 28.287918,70.713463 27.657154,70.606382 28.119409,70.7328 27.771318,70.7859 28.520554,70.9236 28.207773,71.079991 27.228327,71.021236 27.128745,70.916591 27.565554,70.804718 27.309163,70.818045 27.090691,70.705818 27.266036,70.581791 26.566527,70.350963 26.650627,70.636582 26.353191,70.639636 26.668054,70.718891 26.734445,70.8961 26.523327,70.925827 25.150691,70.076945 24.943054,70.0918 25.267636,70.395954 25.089854,70.506554 25.903327,70.888736 25.635209,70.892491 25.366109,70.969573 25.265273,70.812627 24.588473,70.960963 24.626245,70.776109 24.256382,70.7709 24.713745,70.615691 24.363054,70.6886 24.155282,70.568054 24.3534,70.457836 23.645836,70.407773 23.178745,70.0911 23.534718,70.019291 23.317636,69.942354 22.873054,70.102491 22.296663,70.041236 22.9575,70.204163 21.3,70.246936 21.725418,70.056518 22.093327,70.108254 21.8084,70.040263 22.099582,69.743745 21.313327,70.020963 21.048336,69.789018 20.894582,69.8518 21.059445,69.946109 20.565827,69.761382 20.484927,69.631309 20.849027,69.492291 20.466391,69.573191 19.946945,69.2561 20.281945,69.478882 20.420627,69.875545 20.288473,69.972909 19.828054,69.714427 19.683054,69.431936 19.533536,69.396654 19.772709,69.804845 18.944927,69.612563 19.226663,69.564436 19.007863,69.463673 18.850209,69.550336 18.457291,69.449573 19.006945,69.287082 18.539445,69.299163 18.256945,69.486373 18.131673,69.339263 17.996391,69.280273 18.147918,69.150127 17.487782,68.989991 17.431873,68.898391 17.844373,68.8725 17.471382,68.827773 17.7925,68.756945 17.2391,68.753463 17.669063,68.657563 16.972909,68.701527 16.467009,68.511727 17.548191,68.525691 17.373745,68.409009 17.571527,68.359918 17.2025,68.369573 17.358054,68.176373 17.132636,68.367491 16.222773,68.347491 16.800063,68.130336 16.137636,68.3061 16.483891,68.181245 16.3425,68.071654 16.715273,68.066663 16.2075,67.999991 16.495827,67.794154 16.212009,67.900691 16.013745,68.243463 15.288327,68.030545 15.847773,68.038609 15.961109,68.013045 15.871109,67.923327 14.7568,67.802627 15.033609,67.776109 14.812773,67.638882 15.372082,67.792418 15.781109,67.727763 15.306873,67.716727 15.182427,67.619573 15.278891,67.518327 15.887463,67.556445 15.531391,67.465 15.644445,67.268054 15.435273,67.473736 14.934282,67.473109 15.035827,67.570545 14.362082,67.240545 15.153891,67.305545 15.735554,67.175754 15.384927,67.194091 15.495554,67.065273 14.580836,67.195273 14.742636,67.117836 14.268891,67.076654 14.5551,67.022454 13.551391,66.928463 13.990836,66.785273 13.229027,66.710273 13.535827,66.634718 13.191527,66.661109 13.233727,66.546736 12.975691,66.517282 13.155136,66.433327 13.020836,66.324436 13.527427,66.305127 13.0284,66.188945 14.138263,66.320236 13.549718,66.100554 13.559654,66.234018 12.673745,66.064436 12.953809,66.040027 13.169445,65.849845 12.670836,65.919154 12.5534,65.747909 12.783818,65.634709 12.354927,65.640754 12.634509,65.416027 12.249027,65.2318 12.648609,65.264436 12.422218,65.230545 12.479791,65.1343 12.939236,65.320882 12.624718,65.133609 12.149436,65.039554 11.967145,65.064209 11.253191,64.855545 11.695973,64.898882 11.272782,64.840545 11.301663,64.735127 12.217082,64.940682 11.417773,64.697773 11.728054,64.579709 11.221663,64.3161 11.273336,64.451663 10.965691,64.600963 10.662636,64.443118 10.849445,64.370554 10.495291,64.423809 10.652082,64.355545 10.020282,64.066373 10.192782,63.932909 9.545273,63.766109 9.570273,63.661382 10.094582,63.759645 9.789163,63.6625 10.092782,63.502218 10.941945,63.738054 11.022218,63.875754 10.579927,63.804791 11.357636,64.108463 11.487918,64.005545 11.104509,63.8493 11.459927,63.798263 10.720554,63.605 10.913127,63.599927 10.761663,63.505763 10.9118,63.458045 10.087363,63.430273 10.263191,63.264818 9.7175,63.630273 9.152809,63.485763 9.418054,63.374718 8.672218,63.413891 8.758536,63.342918 8.479718,63.2918 8.940136,63.207909 8.160973,63.118045 8.656836,62.971691 8.417573,62.951309 8.531773,62.847218 8.098054,63.103745 7.8809,63.002563 7.938673,62.972382 7.458845,62.908927</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>17.859718,69.584027 17.469163,69.597763 17.59,69.455273 17.196663,69.5 17.490827,69.4243 16.935136,69.394573 17.142773,69.249436 16.875827,69.221373 17.169445,69.196527 16.7675,69.090273 17.092782,69.0036 17.999163,69.188191 17.9068,69.318736 18.095318,69.358527 18.099927,69.359509 18.098382,69.360954</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>15.632782,68.944163 15.453191,68.759573 15.713609,68.698609 15.449027,68.727073 14.986663,68.2475 15.541454,68.5036 15.321527,68.343182 15.588891,68.304991 16.220527,68.550063 16.501145,68.552463 16.544445,68.764163 16.204163,68.855273 15.7425,68.529163 15.987773,68.754718 15.908754,68.9567</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>15.009163,68.763882 15.161109,68.697491 14.804027,68.615263 15.070273,68.575273 15.397636,68.680136 15.379027,68.847354 15.044718,68.996382 15.1518,68.814709 14.529445,68.804991 14.373609,68.686663 14.501109,68.601945</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>5.563427,60.438918 5.652018,60.462963 5.679445,60.470409 5.679345,60.547963 5.679182,60.666854 5.679163,60.681245 5.632273,60.658127 5.36,60.523891 5.451109,60.472363 5.5275,60.429163</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>18.045273,69.564709 18.738327,69.557773 19.064718,69.768873 18.693054,69.884427 18.755836,69.684854 18.3145,69.703382</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>25.585282,70.922209 25.628563,70.930082 26.217082,71.037136 25.673609,71.138318 25.294445,71.042218 25.530409,70.944854</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>12.301554,65.0995 12.313682,65.102973 12.171663,65.206936 11.984445,65.074854 12.016545,65.069418 12.129718,65.050282</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>23.088891,70.5811 23.451663,70.7836 21.9568,70.655 22.2634,70.593173 22.163891,70.463609</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>12.534163,65.999709 12.438609,65.864163 12.840127,65.992409 12.898682,66.011109 12.803791,66.008136</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>PL</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> PL<br>
+<b>Name:</b> Poland
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>59</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>4390272.778450</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>831086394922.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Poland</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>22.886073,49.002918 22.703809,49.169891 22.678463,49.569436 24.111382,50.566936 23.954382,50.7917 24.143473,50.859573 23.604636,51.527691 23.638609,52.079436 23.1654,52.282273 23.935273,52.717491 23.504036,53.947045 23.356109,54.235409 22.785882,54.363836 19.797009,54.437545 19.253327,54.278191 19.651109,54.455827 19.627254,54.463273 18.843745,54.3518 18.595209,54.427773 18.406109,54.738191 18.74,54.685273 17.918891,54.826664 16.543609,54.544718 16.174718,54.259164 14.225554,53.9286 14.218891,53.869018 14.614163,53.816382 14.525,53.660554 14.275627,53.699064 14.391691,53.144164 14.149163,52.862782 14.639582,52.572982 14.534445,52.396245 14.760763,52.069864 14.600973,51.820064 15.033818,51.286654 14.828336,50.865827 15.176945,51.014718 15.379718,50.779445 16.332009,50.664027 16.447363,50.578818 16.219027,50.410273 16.64,50.108891 17.002218,50.216945 16.890973,50.438673 17.724445,50.319027 17.657773,50.108054 18.578745,49.912218 18.851245,49.517354 19.159582,49.400273 19.475554,49.6 19.778018,49.407491 19.783473,49.2002 20.073363,49.177873 20.360554,49.393054 20.913609,49.296109 21.612636,49.436527 22.558054,49.079436</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>PT</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> PT<br>
+<b>Name:</b> Portugal
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>51</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>2825361.328050</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>152799869057.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Portugal</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-7.446946,37.699436 -6.941527,38.170418 -7.317082,38.444718 -6.955873,39.023191 -7.532509,39.669418 -7.017218,39.675 -6.870691,40.015973 -7.027218,40.187773 -6.796109,40.524436 -6.924409,41.030964 -6.190455,41.579636 -6.545627,41.687009 -6.602291,41.949164 -8.136109,41.809164 -8.197837,42.150673 -8.745009,41.9525 -8.880837,41.751664 -8.660137,40.691109 -9.085555,39.615 -9.359582,39.356664 -9.476046,38.705273 -9.118473,38.717218 -8.994309,38.940618 -8.919746,38.765891 -9.274237,38.668745 -9.183891,38.419718 -8.768891,38.517218 -8.673337,38.413891 -8.8025,38.374445 -8.795864,37.442509 -8.989237,37.026318 -7.897782,37.008891 -7.431855,37.253191</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-25.155282,37.748882 -25.165282,37.858891 -25.854164,37.883891 -25.456109,37.705554</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-16.715555,32.758891 -17.254518,32.812845 -16.943609,32.6375</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-28.070137,38.444164 -28.549446,38.527218 -28.246673,38.371936</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-27.065837,38.764164 -27.385,38.763327 -27.138618,38.629436</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>RO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> RO<br>
+<b>Name:</b> Romania
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>47</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>3397737.598250</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>490148697621.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Romania</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>23.042982,44.072564 22.894445,43.836109 24.189236,43.684927 25.531936,43.6436 26.136382,43.982773 27.036427,44.147336 28.583245,43.747764 28.629582,44.296518 28.927773,44.617491 28.7575,44.519718 28.763054,44.625582 28.990863,44.685645 28.780827,44.660964 28.947354,44.826654 28.869191,44.940509 29.549436,44.820264 29.664327,45.2118 29.411382,45.435818 28.700809,45.220091 28.214836,45.448645 28.069163,45.583318 28.2468,46.6078 28.079373,46.982273 27.299436,47.6586 27.000554,48.155545 26.634991,48.257164 26.158609,47.985254 25.333882,47.916664 24.928918,47.713145 24.556391,47.953045 23.174163,48.108327 22.8948,47.954536 22.013882,47.510618 21.177363,46.297364 20.261027,46.114854 20.8016,45.758673 20.808327,45.478882 21.482773,45.183609 21.373436,45.013609 21.553954,44.892427 21.398663,44.7831 22.1375,44.480273 22.466109,44.713745 22.762509,44.5526 22.461527,44.483327 22.681436,44.2247</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>RS</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> RS<br>
+<b>Name:</b> Serbia
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>44</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>2278770.499780</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>172448680788.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Serbia</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>19.27469,43.418936 19.624874,43.20601 20.006733,43.066992 20.376275,42.850546 20.010253,42.744963 20.072861,42.559803 20.525136,42.213054 20.589645,41.882191 21.110836,42.200691 22.365273,42.323882 22.558473,42.483327 22.442909,42.820409 22.741591,42.892145 23.005,43.192773 22.541663,43.475618 22.367218,43.826945 22.681436,44.2247 22.461527,44.483327 22.762509,44.5526 22.466109,44.713745 22.1375,44.480273 21.398663,44.7831 21.553954,44.892427 21.373436,45.013609 21.482773,45.183609 20.808327,45.478882 20.8016,45.758673 20.261027,46.114854 19.565273,46.172773 18.817018,45.912964 18.956663,45.7825 18.902236,45.573136 19.097927,45.518864 18.981263,45.382218 19.425,45.217918 19.167354,45.2143 19.039718,44.861382 19.371391,44.889164 19.104445,44.355827 19.618563,44.052618 19.239454,44.010609 19.510554,43.685827 19.232563,43.515518</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>SE</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> SE<br>
+<b>Name:</b> Sweden
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>187</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>12631300.234200</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>2158914873910.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Sweden</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>11.32,59.100273 11.219945,59.053473 11.113336,59.003609 11.201391,58.399436 11.528609,58.230754 11.727736,58.3284 11.798054,58.318327 11.8787,58.202163 11.701873,57.699927 11.887782,57.693882 11.902773,57.424309 12.095,57.426936 12.348891,56.916809 12.880209,56.642982 12.901109,56.457218 12.6243,56.418327 12.799236,56.2259 12.460073,56.296664 13.061109,55.680764 12.921182,55.572427 12.982218,55.400554 13.375554,55.34 14.193545,55.386145 14.365936,55.542845 14.217218,55.830273 14.555136,56.056245 14.738336,56.010827 14.692636,56.158191 15.865554,56.092218 16.003473,56.213054 16.584445,57.046663 16.465973,57.270554 16.665827,57.408536 16.711391,57.702636 16.419236,57.889091 16.695173,57.7417 16.506209,57.991973 16.763609,57.881236 16.620209,57.987009 16.825836,58.176663 16.77,58.367218 16.422845,58.477773 16.933609,58.488327 16.193609,58.627491 17.35,58.752218 17.6291,58.9102 17.666245,59.167354 17.894718,58.858891 18.311391,59.1325 18.277218,59.310827 18.643154,59.321873 18.477218,59.435273 18.093709,59.315618 17.286945,59.259045 16.836736,59.489645 16.695418,59.470482 16.877773,59.381936 16.032463,59.490163 16.558609,59.609854 17.404445,59.469163 17.382845,59.652354 17.731391,59.444854 17.652373,59.636091 17.817709,59.586454 17.782773,59.389163 17.957054,59.358263 18.091391,59.334445 18.242063,59.400454 19.079654,59.767427 18.864718,59.798045 19.070554,59.889718 18.816391,60.096382 18.421663,60.187218 18.317082,60.308191 18.599618,60.235618 17.960973,60.592082 17.687918,60.497354 17.275273,60.676109 17.1525,60.942773 17.105273,61.399927 17.219654,61.434654 17.098609,61.602773 17.264545,61.685373 17.148782,61.717282 17.495173,61.634582 17.350827,61.943473 17.648882,62.231727 17.330827,62.487773 18.046391,62.595273 17.700554,62.992709 18.204027,62.777354 18.5752,62.9618 18.289163,62.997218 18.896663,63.273191 19.0625,63.176936 19.425827,63.546318 19.705,63.431936 20.774027,63.867082 20.963745,64.1427 21.585,64.439709 21.119163,64.684363 21.3034,64.761654 21.039373,64.823818 21.619373,65.151373 21.264863,65.338254 21.6593,65.245827 21.471245,65.383745 22.194373,65.542282 21.765827,65.712145 22.4,65.5368 22.249054,65.632491 22.368191,65.859154 22.6793,65.760473 22.675827,65.902218 23.077354,65.700827 24.167009,65.814027 23.6625,66.312209 24.000763,66.802282 23.573327,67.157009 23.765136,67.416873 23.430827,67.479782 23.488818,67.870963 23.659791,67.945891 22.826663,68.385963 22.048609,68.481518 20.580927,69.0603 20.096945,69.042218 20.350273,68.786654 19.956391,68.543882 20.204236,68.470891 19.952363,68.342763 18.099536,68.508927 18.155282,68.166109 17.884163,67.945545 17.273609,68.090545 16.726945,67.899154 16.088054,67.4054 16.361382,67.237782 16.353882,67.017773 15.362782,66.48 15.468054,66.283873 14.507082,66.1236 14.633191,65.8218 14.493054,65.3136 13.668263,64.5802 14.116391,64.470554 14.150691,64.179845 13.985,64.015545 12.938054,64.053327 12.146663,63.589573 11.936391,63.272218 12.168609,63.015827 12.028891,62.892491 12.0475,62.59 12.293745,62.267082 12.124445,61.728609 12.856109,61.3625 12.637827,61.057536 12.216218,60.998745 12.590973,60.5218 12.494509,60.113045 11.815963,59.8461 11.8991,59.699718 11.667009,59.593573 11.7518,59.095136 11.624027,58.906936 11.429191,58.987636</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>11.812427,58.217709 11.784518,58.2313 11.6828,58.280873 11.673191,58.285545 11.662491,58.274273 11.465,58.066109 11.780218,58.203654</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>18.685973,57.914854 18.115273,57.525273 18.254445,57.079163 18.144582,56.914791 18.713191,57.2443 19.003891,57.898891</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>17.102082,57.349445 16.420273,56.586391 16.429718,56.208882</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Placemark>
+			<name>SI</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> SI<br>
+<b>Name:</b> Slovenia
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>21</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>1116366.619540</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>43072545890.099998</value>
+				</Data>
+				<Data name='Name'>
+					<value>Slovenia</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>14.3925,45.486109 14.609791,45.668436 14.826091,45.465445 15.174454,45.425818 15.315836,45.756664 15.696109,45.843054 15.659163,46.2209 16.292509,46.530818 16.607873,46.476236 16.349027,46.842354 16.1118,46.869718 14.8675,46.613327 14.545,46.407491 13.718654,46.526609 13.383473,46.295136 13.666036,46.175309 13.479718,46.012218 13.918336,45.636391 13.716945,45.596109 13.591736,45.4817</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>SK</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> SK<br>
+<b>Name:</b> Slovakia
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>28</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>1709551.574090</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>111753572631.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Slovakia</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>y</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>16.844718,48.361973 17.166382,48.0125 17.787282,47.746427 18.663054,47.759718 18.849718,47.817773 18.845336,48.049127 19.472427,48.089436 19.630554,48.233891 19.939863,48.136245 20.652918,48.561664 21.438191,48.575345 21.780973,48.340691 22.151445,48.411918 22.558054,49.079436 21.612636,49.436527 20.913609,49.296109 20.360554,49.393054 20.073363,49.177873 19.783473,49.2002 19.778018,49.407491 19.475554,49.6 19.159582,49.400273 18.851245,49.517354 18.5659,49.493673 17.712218,48.856109 17.187909,48.869445 16.946182,48.619064</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>SM</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> SM<br>
+<b>Name:</b> San Marino
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>4</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>36881.013193</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>63348162.534700</value>
+				</Data>
+				<Data name='Name'>
+					<value>San Marino</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>12.407,43.954745 12.469673,43.898191 12.5033,43.985318</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>UA</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> UA<br>
+<b>Name:</b> Ukraine
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>131</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value>9213077.796400</value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value>1386674283110.000000</value>
+				</Data>
+				<Data name='Name'>
+					<value>Ukraine</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>35.198045,46.443318 35.3343,46.321654 34.996727,46.074227 35.9072,46.651091 36.763882,46.7511 37.559573,47.086445 38.235827,47.109427 38.300827,47.555127 38.758191,47.689564 38.845963,47.8568 39.803254,47.8686 39.998882,48.297218 39.660191,48.603918 40.074854,48.876236 39.697909,49.0168 40.167636,49.251664 40.139763,49.601054 39.812427,49.550545 39.183736,49.880409 38.941863,49.811027 38.304854,50.073882 38.024227,49.903082 37.461936,50.436173 36.608463,50.213045 36.148463,50.422282 35.5979,50.3736 35.441054,50.511973 35.368827,51.042127 35.076445,51.220645 34.382209,51.263609 34.101863,51.6477 34.422218,51.804164 33.831663,52.363182 32.389163,52.334018 32.224991,52.079436 31.783882,52.108045 30.959663,52.079345 30.565,51.643327 30.551418,51.251845 30.179991,51.491518 29.342218,51.373182 29.118054,51.636936 28.757154,51.415645 28.256736,51.659291 27.832082,51.609164 27.747909,51.466518 27.17,51.764164 25.240963,51.959854 24.394227,51.884718 24.043054,51.610273 23.604636,51.527691 24.143473,50.859573 23.954382,50.7917 24.111382,50.566936 22.678463,49.569436 22.703809,49.169891 22.886073,49.002918 22.558054,49.079436 22.151445,48.411918 22.8948,47.954536 23.174163,48.108327 24.556391,47.953045 24.928918,47.713145 25.333882,47.916664 26.158609,47.985254 26.634991,48.257164 27.763191,48.449582 29.144854,47.983518 29.1901,47.439536 29.567009,47.3377 29.574236,46.947418 29.9443,46.818254 29.899436,46.5352 30.128709,46.405091 28.994436,46.478327 28.968254,46.0061 28.524436,45.7111 28.515827,45.514918 28.214836,45.448645 28.700809,45.220091 29.411382,45.435818 29.664327,45.2118 29.760409,45.322209 29.593045,45.557073 29.6361,45.820682 29.822773,45.648327 30.509163,46.096373 30.832773,46.548327 31.189054,46.624545 31.595691,46.797073 31.477736,46.631964 31.908191,46.653591 31.965027,46.925373 31.751518,47.252354 31.980827,47.0075 32.0136,46.634291 32.641618,46.642282 32.348045,46.459154 31.514509,46.579091 32.007,46.448036 31.790136,46.284164 32.500409,46.076245 33.614018,46.142627 33.7694,45.9253 32.4811,45.394018 33.546245,45.108464 33.554436,44.6236 33.369054,44.584364 33.930273,44.379154 34.518591,44.744427 35.082982,44.791236 35.526582,45.118454 35.856936,44.986382 36.453463,45.077282 36.4311,45.2711 36.6368,45.377909 36.136236,45.458318 35.4579,45.298464 34.734091,46.107382 35.343036,45.3325 35.133045,45.325 34.986645,45.631927 34.463391,45.769291 34.636518,45.937418 34.139436,45.940127 33.671027,46.215473 34.5369,46.184464 34.405191,46.012736 34.566382,45.985964 34.700545,46.176127</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Placemark>
+			<name>TR</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>ISO_2DIGIT:</b> TR<br>
+<b>Name:</b> Turkey
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='geometry_vertex_count'>
+					<value>132</value>
+				</Data>
+				<Data name='Shape_Leng'>
+					<value></value>
+				</Data>
+				<Data name='Shape_Area'>
+					<value></value>
+				</Data>
+				<Data name='Name'>
+					<value>Turkey</value>
+				</Data>
+				<Data name='import_notes'>
+					<value></value>
+				</Data>
+				<Data name='Show in drop down'>
+					<value>n</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>36.168473,35.819718 36.392218,36.213327 36.683118,36.232736 36.549573,36.487773 36.659945,36.833709 37.373809,36.655336 38.2434,36.913882 39.221527,36.665336 40.770818,37.118045 41.548191,37.085273 42.180827,37.290545 42.355609,37.106927 42.7868,37.383673 43.623045,37.23 44.118882,37.315682 44.319163,36.971236 44.787336,37.149709 44.818182,37.297418 44.588854,37.443091 44.617763,37.717973 44.223973,37.899154 44.482518,38.3413 44.305263,38.400536 44.300263,38.842627 44.034954,39.377445 44.4011,39.416518 44.608463,39.779154 44.813045,39.630818 44.778863,39.706382 44.351663,40.022218 43.6684,40.103182 43.583054,40.451109 43.750409,40.745 43.460773,41.112964 42.831018,41.582418 42.472209,41.433327 41.531554,41.523873 40.149991,40.920273 39.414227,41.106727 38.355827,40.910273 37.1293,41.1468 36.81,41.355554 36.431518,41.242073 35.973054,41.732218 35.493173,41.643864 34.978882,42.091945 34.715545,41.942491 33.3386,42.019854 32.2775,41.719436 31.233473,41.0893 29.16,41.224573 29.025554,41.034427 29.129436,40.914445 29.933954,40.722209 28.980409,40.639573 28.776727,40.527073 29.08,40.477627 29.055763,40.3668 27.953191,40.356936 28.020136,40.487709 27.754854,40.529718 27.877845,40.375854 27.511663,40.305554 27.118609,40.452764 26.7043,40.378882 26.174718,39.979436 26.109991,39.457627 26.9518,39.550827 26.644718,39.263054 26.869718,39.097909 26.801663,38.955827 27.062982,38.873182 26.733745,38.641936 27.156454,38.452809 26.6918,38.310854 26.398327,38.666936 26.388118,38.447009 26.509854,38.425482 26.275827,38.264436 27.268327,37.9536 27.194927,37.352345 27.421082,37.407909 27.595273,37.232491 27.3243,37.153045 27.255,36.965 28.324791,37.038182 27.374718,36.684027 28.120136,36.797073 27.983891,36.552773 28.456391,36.880827 29.0525,36.681109 29.148054,36.348327 29.677218,36.118327 30.208609,36.303873 30.404854,36.204918 30.616527,36.843609 31.046663,36.849154 32.064709,36.516391 32.566627,36.092709 33.705273,36.179436 34.659427,36.805273 35.558536,36.579791 36.0112,36.923191 36.217282,36.654782 35.785545,36.314845 35.922436,35.926991</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>27.569582,41.909264 27.070273,42.089991 26.621382,41.973054 26.3611,41.711054 26.570273,41.611382 26.635763,41.364718 26.325,41.234709 26.360409,40.953882 26.044718,40.735827 26.118609,40.595127 26.825827,40.591591 26.211591,40.322145 26.217909,40.052909 26.725409,40.478045 27.291527,40.700264 27.505345,40.981309 29.036245,41.054573 29.088882,41.246245 28.090545,41.631382 28.013054,41.982218</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>26.012427,40.154018 25.776663,40.212209 25.731663,40.093036</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+	</Document>
+</kml>
